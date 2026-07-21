@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-hsc376.alexistogel8wwq.cyou/sitemap.xml
